@@ -1,0 +1,164 @@
+body{
+    background-color: #000000;
+    background-size: cover;
+}
+p, h1,  h3, h4, h5, h6{
+	color: #ffffff;
+	font-family: comic sans ms;
+    text-align: center;
+
+}
+a:link, a:visited{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: comic sans ms; 
+}
+a:hover, a:active{
+    color: #ff0000;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: comic sans ms;
+}
+#links{
+    text-align: center;
+	font-size: 20px;
+    word-spacing: 10px;
+}
+
+#primeiro{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+}
+#monark{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+}
+#venomextreme{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+}
+ #trailer{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+ }  
+
+#consoles{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+}
+
+#ohman{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+}
+
+#fallen{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+}
+
+#techno{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+}
+
+#hypixel{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+}
+#rapmine{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+ }
+#paraiso{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+}
+#fallendois{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+ }
+#dontmine{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+}
+ #microsoft{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+ }
+#dreamum{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+}
+#farlands{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+}
+#dream{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+}
+#fimtech{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+}
+
+#piorupdate{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+}
+#melhorupdate{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+}
+#isolados{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+}
+#menu{
+	position: absolute;
+	text-align: center;
+	position: fixed;
+	top: 50px;
+	background-color: rgb(0, 0, 0);
+	font-family: comic sans ms;
+}
+
+
+
+h2{
+    background-color: #5eff0052;
+    border-radius: 10px;
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+    width: 600px;
+}
+
+table{
+    background-color: #5eff0027;
+    border-radius: 10px;
+}
+
