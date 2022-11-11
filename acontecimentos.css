@@ -11,13 +11,13 @@ p, h1,  h3, h4, h5, h6{
 a:link, a:visited{
     color: #ffffff;
     text-decoration: none;
-    font-size: 14px;
+    font-size: 17px;
     font-family: comic sans ms; 
 }
 a:hover, a:active{
     color: #ff0000;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 18px;
     font-family: comic sans ms;
 }
 #links{
@@ -133,6 +133,11 @@ a:hover, a:active{
     margin-left: 350px;
 }
 #isolados{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+}
+#casaautomatica{
     color: #ffffff;
     font-family: comic sans ms;
     margin-left: 350px;

@@ -15,12 +15,29 @@ p, h1, h3, h4, h5, h6, :link{
 a:link, a:visited{
     color: #ffffff;
     text-decoration: none;
-    font-size: 14px;
-    font-family: comic sans ms; 
+    font-size: 17px;
+    font-family: comic sans ms;
+    text-align: center; 
 }
 a:hover, a:active{
     color: #ff0000;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 18px;
     font-family: comic sans ms;
+    text-align: center;
+}
+h2{
+    color: #ffffff;
+    font-family: comic sans ms;
+    margin-left: 350px;
+    
+}
+#heroimage{
+    position: relative;
+    text-align: center;
+}
+#comprarmine{
+    position: absolute;
+    margin-top: 10px;
+
 }
