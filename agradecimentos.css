@@ -33,11 +33,32 @@ h2{
     
 }
 #heroimage{
+ 
+    position: relative;
+    width: 1200px;
+    height: 600px;
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    background-repeat: no-repeat;
+    justify-content: center!important;
+    -webkit-box-pack: center!important;
+    border-radius: 15px;
+    left: 200px;
+    right: 200px;
+
+    
+  
+  
+   
+
+}
+#comprar{
     position: relative;
     text-align: center;
-}
-#comprarmine{
-    position: absolute;
-    margin-top: 10px;
+    top: 100px;
+    right: 350px;
+    margin-left: 230px;
+    
 
 }
