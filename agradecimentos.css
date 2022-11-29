@@ -1,5 +1,5 @@
 body{
-    background-image: url(96345.jpg);
+    background-image: url(img/96345.jpg);
     background-color: #000;
     background-size: cover;
 }
@@ -119,4 +119,18 @@ h2{
     background: linear-gradient(to top, #008aff,#00ffe7);
     filter: blur(30px);
 
+}
+#sobremim{
+    position: relative;
+    width: 600px;
+    height: 600px;
+    border-radius: 15px;
+    left: 280px;
+    right: 200px;
+    top: 25px;
+}
+#imagem{
+    right: 100px;
+    top: 720px;
+    position: absolute;
 }
